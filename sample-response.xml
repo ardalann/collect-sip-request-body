@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Say voice="alice">Connection was successful! Please let Ardalan know.</Say>
-  <Redirect>https://requestb.in/13aojy91</Redirect>
 </Response>
